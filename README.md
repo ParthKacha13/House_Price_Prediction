@@ -83,12 +83,6 @@ The dataset is provided by Kaggle and includes:
 
 ---
 
-## 📊 Result
-
-- Kaggle Score: **0.6931**
-
----
-
 ## 🎯 Conclusion
 
 This project demonstrates the application of regression techniques and feature engineering in solving real-world pricing problems. It highlights the importance of data preprocessing and model tuning in improving predictive accuracy.
